@@ -1,0 +1,188 @@
+[
+  {
+    "id": "noir-puffer",
+    "category": "outerwear",
+    "status": "in_stock",
+    "preorderDays": "",
+    "price": 389,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "images": [
+      "/placeholder/a.svg",
+      "/placeholder/b.svg",
+      "/placeholder/c.svg"
+    ],
+    "name": {
+      "az": "Noir Puffer gödəkçə",
+      "ru": "Пуховик Noir"
+    },
+    "description": {
+      "az": "Yüngül, istilik saxlayan oversize puffer. Su itələyən parça və gizli cib.",
+      "ru": "Лёгкий оверсайз-пуховик с отличной теплоизоляцией. Водоотталкивающая ткань и скрытые карманы."
+    }
+  },
+  {
+    "id": "long-wool-coat",
+    "category": "outerwear",
+    "status": "preorder",
+    "preorderDays": "12–16",
+    "price": 549,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "images": [
+      "/placeholder/a.svg",
+      "/placeholder/b.svg",
+      "/placeholder/c.svg"
+    ],
+    "name": {
+      "az": "Uzun yun palto",
+      "ru": "Длинное шерстяное пальто"
+    },
+    "description": {
+      "az": "Təmiz xətli, tək düyməli uzun palto. Yun qarışığı, tam astarlı.",
+      "ru": "Длинное пальто чистого кроя на одной пуговице. Шерстяная смесь, полная подкладка."
+    }
+  },
+  {
+    "id": "essential-bomber",
+    "category": "outerwear",
+    "status": "in_stock",
+    "preorderDays": "",
+    "price": 249,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "images": [
+      "/placeholder/a.svg",
+      "/placeholder/b.svg",
+      "/placeholder/c.svg"
+    ],
+    "name": {
+      "az": "Essential bomber",
+      "ru": "Бомбер Essential"
+    },
+    "description": {
+      "az": "Gündəlik geyim üçün sadə bomber. Qabırğalı manşetlər, yüngül astar.",
+      "ru": "Базовый бомбер на каждый день. Манжеты в рубчик, лёгкая подкладка."
+    }
+  },
+  {
+    "id": "minimal-leather-sneakers",
+    "category": "shoes",
+    "status": "in_stock",
+    "preorderDays": "",
+    "price": 219,
+    "sizes": [
+      "40",
+      "41",
+      "42",
+      "43",
+      "44",
+      "45"
+    ],
+    "images": [
+      "/placeholder/a.svg",
+      "/placeholder/b.svg",
+      "/placeholder/c.svg"
+    ],
+    "name": {
+      "az": "Minimal dəri kedlər",
+      "ru": "Минималистичные кожаные кеды"
+    },
+    "description": {
+      "az": "Təbii dəri, sadə siluet. Gün boyu rahatlıq üçün yumşaq içlik.",
+      "ru": "Натуральная кожа, чистый силуэт. Мягкая стелька для комфорта на весь день."
+    }
+  },
+  {
+    "id": "runner-graphite",
+    "category": "shoes",
+    "status": "preorder",
+    "preorderDays": "8–12",
+    "price": 279,
+    "sizes": [
+      "40",
+      "41",
+      "42",
+      "43",
+      "44",
+      "45"
+    ],
+    "images": [
+      "/placeholder/a.svg",
+      "/placeholder/b.svg",
+      "/placeholder/c.svg"
+    ],
+    "name": {
+      "az": "Graphite krossovkalar",
+      "ru": "Кроссовки Graphite"
+    },
+    "description": {
+      "az": "Qrafit tonlu yüngül krossovka. Amortizasiya edən altlıq.",
+      "ru": "Лёгкие кроссовки графитового оттенка с амортизирующей подошвой."
+    }
+  },
+  {
+    "id": "base-set-hoodie",
+    "category": "sets",
+    "status": "in_stock",
+    "preorderDays": "",
+    "price": 169,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "images": [
+      "/placeholder/a.svg",
+      "/placeholder/b.svg",
+      "/placeholder/c.svg"
+    ],
+    "name": {
+      "az": "Baza dəst: hudi + şalvar",
+      "ru": "Базовый комплект: худи + брюки"
+    },
+    "description": {
+      "az": "Qalın pambıq trikotaj. Düz kəsim, neytral tonlar.",
+      "ru": "Плотный хлопковый трикотаж. Прямой крой, нейтральная палитра."
+    }
+  },
+  {
+    "id": "knit-set",
+    "category": "sets",
+    "status": "preorder",
+    "preorderDays": "14–18",
+    "price": 199,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "images": [
+      "/placeholder/a.svg",
+      "/placeholder/b.svg",
+      "/placeholder/c.svg"
+    ],
+    "name": {
+      "az": "Trikotaj dəst",
+      "ru": "Трикотажный комплект"
+    },
+    "description": {
+      "az": "Yumşaq toxunma trikotaj dəst: kardigan və şalvar.",
+      "ru": "Мягкий вязаный комплект: кардиган и брюки."
+    }
+  }
+]
